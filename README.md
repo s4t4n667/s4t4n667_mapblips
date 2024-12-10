@@ -1,0 +1,9 @@
+# s4t4n667_mapblips
+## Simple map blips creator 📍🌍
+
+Simply add coordinates to the config and choose a label, sprite, sprite colour and display size. It's as easy as that!
+
+- Supports ESX, QBCore and Qbox.
+
+## Asgaard Developments
+Join the Discord: [Click Here](https://discord.gg/eFsB5ZFxeq)

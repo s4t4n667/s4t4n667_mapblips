@@ -4,8 +4,8 @@ use_experimental_fxv2_oal 'yes'
 lua54 'yes'
 
 author "Asgaard Developments | s4t4n667"
-description 'Blip manager'
-version '1.0.0'
+description 'Easy-to-use map blip creator'
+version '2.0.0'
 
 shared_script {
     '@ox_lib/init.lua',
@@ -18,8 +18,4 @@ client_scripts {
 
 server_scripts {
     'resource/server.lua'
-}
-
-dependencies {
-    'ox_lib'
 }
